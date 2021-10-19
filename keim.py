@@ -1,0 +1,5 @@
+thistuple = ("book","soada", "juice")
+print(thistuple)
+print(9>11)
+tuple1 = ("shoes", "soda", "car")
+print(tuple1)
